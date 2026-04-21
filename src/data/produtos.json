@@ -1,0 +1,2124 @@
+{
+  "categorias": [
+    {
+      "slug": "sacolas-brancas",
+      "nome": "Sacolas Brancas",
+      "produtos": [
+        {
+          "codigo": "001",
+          "nome": "2KG",
+          "slug_categoria": "sacolas-brancas",
+          "imagem": "imagens/produtos/sacolas-brancas/2kg.jpg",
+          "dimensoes": "25 x 35 cm — 0,018 mm"
+        },
+        {
+          "codigo": "060",
+          "nome": "3KG",
+          "slug_categoria": "sacolas-brancas",
+          "imagem": "imagens/produtos/sacolas-brancas/3kg.jpg",
+          "dimensoes": "29 x 39 cm — 0,018 mm"
+        },
+        {
+          "codigo": "002",
+          "nome": "5KG",
+          "slug_categoria": "sacolas-brancas",
+          "imagem": "imagens/produtos/sacolas-brancas/5kg.jpg",
+          "dimensoes": "29 x 44 cm — 0,018 mm"
+        },
+        {
+          "codigo": "062",
+          "nome": "8KG",
+          "slug_categoria": "sacolas-brancas",
+          "imagem": "imagens/produtos/sacolas-brancas/8kg.jpg",
+          "dimensoes": "38 x 48 cm — 0,018 mm"
+        },
+        {
+          "codigo": "063",
+          "nome": "10KG",
+          "slug_categoria": "sacolas-brancas",
+          "imagem": "imagens/produtos/sacolas-brancas/10kg.jpg",
+          "dimensoes": "38 x 52 cm — 0,020 mm"
+        },
+        {
+          "codigo": "064",
+          "nome": "15KG",
+          "slug_categoria": "sacolas-brancas",
+          "imagem": "imagens/produtos/sacolas-brancas/15kg.jpg",
+          "dimensoes": "48 x 58 cm — 0,020 mm"
+        },
+        {
+          "codigo": "065",
+          "nome": "20KG",
+          "slug_categoria": "sacolas-brancas",
+          "imagem": "imagens/produtos/sacolas-brancas/20kg.jpg",
+          "dimensoes": "60 x 70 cm — 0,025 mm"
+        },
+        {
+          "codigo": "066",
+          "nome": "30KG",
+          "slug_categoria": "sacolas-brancas",
+          "imagem": "imagens/produtos/sacolas-brancas/30kg.jpg",
+          "dimensoes": "70 x 80 cm — 0,030 mm"
+        }
+      ]
+    },
+    {
+      "slug": "sacolas-recicladas-verde-azul",
+      "nome": "Sacolas Recicladas Verde/Azul",
+      "produtos": [
+        {
+          "codigo": "050",
+          "nome": "2KG",
+          "slug_categoria": "sacolas-recicladas-verde-azul",
+          "imagem": "imagens/produtos/sacolas-recicladas-verde-azul/2kg.jpg",
+          "dimensoes": "25 x 35 cm — 0,025 mm"
+        },
+        {
+          "codigo": "051",
+          "nome": "3KG",
+          "slug_categoria": "sacolas-recicladas-verde-azul",
+          "imagem": "imagens/produtos/sacolas-recicladas-verde-azul/3kg.jpg",
+          "dimensoes": "29 x 39 cm — 0,025 mm"
+        },
+        {
+          "codigo": "258",
+          "nome": "5KG",
+          "slug_categoria": "sacolas-recicladas-verde-azul",
+          "imagem": "imagens/produtos/sacolas-recicladas-verde-azul/5kg.jpg",
+          "dimensoes": "29 x 44 cm — 0,025 mm"
+        },
+        {
+          "codigo": "053",
+          "nome": "8KG",
+          "slug_categoria": "sacolas-recicladas-verde-azul",
+          "imagem": "imagens/produtos/sacolas-recicladas-verde-azul/8kg.jpg",
+          "dimensoes": "38 x 48 cm — 0,030 mm"
+        },
+        {
+          "codigo": "054",
+          "nome": "10G",
+          "slug_categoria": "sacolas-recicladas-verde-azul",
+          "imagem": "imagens/produtos/sacolas-recicladas-verde-azul/10g.jpg",
+          "dimensoes": "38 x 52 cm — 0,030 mm"
+        },
+        {
+          "codigo": "055",
+          "nome": "15KG",
+          "slug_categoria": "sacolas-recicladas-verde-azul",
+          "imagem": "imagens/produtos/sacolas-recicladas-verde-azul/15kg.jpg",
+          "dimensoes": "48 x 58 cm — 0,040 mm"
+        },
+        {
+          "codigo": "056",
+          "nome": "20KG",
+          "slug_categoria": "sacolas-recicladas-verde-azul",
+          "imagem": "imagens/produtos/sacolas-recicladas-verde-azul/20kg.jpg",
+          "dimensoes": "60 x 70 cm — 0,050 mm"
+        },
+        {
+          "codigo": "503",
+          "nome": "30KG",
+          "slug_categoria": "sacolas-recicladas-verde-azul",
+          "imagem": "imagens/produtos/sacolas-recicladas-verde-azul/30kg.jpg",
+          "dimensoes": "70 x 80 cm — 0,060 mm"
+        }
+      ]
+    },
+    {
+      "slug": "sacolas-pretas",
+      "nome": "Sacolas Pretas",
+      "produtos": [
+        {
+          "codigo": "500",
+          "nome": "8KG",
+          "slug_categoria": "sacolas-pretas",
+          "imagem": "imagens/produtos/sacolas-pretas/8kg.jpg",
+          "dimensoes": "40 x 48 cm — 0,950 mm"
+        },
+        {
+          "codigo": "501",
+          "nome": "10G",
+          "slug_categoria": "sacolas-pretas",
+          "imagem": "imagens/produtos/sacolas-pretas/10g.jpg",
+          "dimensoes": "40 x 55 cm — 0,050 mm"
+        }
+      ]
+    },
+    {
+      "slug": "sacolas-recicladas-leitosa",
+      "nome": "Sacolas Recicladas Leitosa",
+      "produtos": [
+        {
+          "codigo": "189",
+          "nome": "2KG",
+          "slug_categoria": "sacolas-recicladas-leitosa",
+          "imagem": "imagens/produtos/sacolas-recicladas-leitosa/2kg.jpg",
+          "dimensoes": "25 x 35 cm — 0,025 mm"
+        },
+        {
+          "codigo": "088",
+          "nome": "3KG",
+          "slug_categoria": "sacolas-recicladas-leitosa",
+          "imagem": "imagens/produtos/sacolas-recicladas-leitosa/3kg.jpg",
+          "dimensoes": "29 x 39 cm — 0,025 mm"
+        },
+        {
+          "codigo": "089",
+          "nome": "5KG",
+          "slug_categoria": "sacolas-recicladas-leitosa",
+          "imagem": "imagens/produtos/sacolas-recicladas-leitosa/5kg.jpg",
+          "dimensoes": "29 x 44 cm — 0,025 mm"
+        },
+        {
+          "codigo": "090",
+          "nome": "8KG",
+          "slug_categoria": "sacolas-recicladas-leitosa",
+          "imagem": "imagens/produtos/sacolas-recicladas-leitosa/8kg.jpg",
+          "dimensoes": "38 x 48 cm — 0,030 mm"
+        },
+        {
+          "codigo": "091",
+          "nome": "10G",
+          "slug_categoria": "sacolas-recicladas-leitosa",
+          "imagem": "imagens/produtos/sacolas-recicladas-leitosa/10g.jpg",
+          "dimensoes": "38 x 52 cm — 0.05 mm"
+        },
+        {
+          "codigo": "092",
+          "nome": "15KG",
+          "slug_categoria": "sacolas-recicladas-leitosa",
+          "imagem": "imagens/produtos/sacolas-recicladas-leitosa/15kg.jpg",
+          "dimensoes": "48 x 58 cm — 0.06 mm"
+        },
+        {
+          "codigo": "092",
+          "nome": "20KG",
+          "slug_categoria": "sacolas-recicladas-leitosa",
+          "imagem": "imagens/produtos/sacolas-recicladas-leitosa/20kg.jpg",
+          "dimensoes": "48 x 58 cm — 0.06 mm"
+        }
+      ]
+    },
+    {
+      "slug": "sacolas-cinza",
+      "nome": "Sacolas Cinza",
+      "produtos": [
+        {
+          "nome": "3KG",
+          "slug_categoria": "sacolas-cinza",
+          "imagem": "imagens/produtos/sacolas-cinza/3kg.jpg",
+          "dimensoes": "29 x 39 cm — 0,018 mm"
+        },
+        {
+          "nome": "5KG",
+          "slug_categoria": "sacolas-cinza",
+          "imagem": "imagens/produtos/sacolas-cinza/5kg.jpg",
+          "dimensoes": "29 x 44 cm — 0,018 mm"
+        },
+        {
+          "nome": "8KG",
+          "slug_categoria": "sacolas-cinza",
+          "imagem": "imagens/produtos/sacolas-cinza/8kg.jpg",
+          "dimensoes": "38 x 48 cm — 0,018 mm"
+        },
+        {
+          "nome": "10KG",
+          "slug_categoria": "sacolas-cinza",
+          "imagem": "imagens/produtos/sacolas-cinza/10kg.jpg",
+          "dimensoes": "38 x 52 cm — 0,020 mm"
+        },
+        {
+          "nome": "15KG",
+          "slug_categoria": "sacolas-cinza",
+          "imagem": "imagens/produtos/sacolas-cinza/15kg.jpg",
+          "dimensoes": "48 x 58 cm — 0,020 mm"
+        },
+        {
+          "nome": "20KG",
+          "slug_categoria": "sacolas-cinza",
+          "imagem": "imagens/produtos/sacolas-cinza/20kg.jpg",
+          "dimensoes": "60 x 70 cm — 0,025 mm"
+        }
+      ]
+    },
+    {
+      "slug": "sacos-de-alta-densidade",
+      "nome": "Sacos De Alta Densidade",
+      "produtos": [
+        {
+          "codigo": "024",
+          "nome": "250G",
+          "slug_categoria": "sacos-de-alta-densidade",
+          "imagem": "imagens/produtos/sacos-de-alta-densidade/250g.jpg",
+          "dimensoes": "10 x 25 cm — 0,018 mm"
+        },
+        {
+          "codigo": "006",
+          "nome": "500 G",
+          "slug_categoria": "sacos-de-alta-densidade",
+          "imagem": "imagens/produtos/sacos-de-alta-densidade/500-g.jpg",
+          "dimensoes": "13 x 25 cm — 0,018 mm"
+        },
+        {
+          "codigo": "007",
+          "nome": "1 KG",
+          "slug_categoria": "sacos-de-alta-densidade",
+          "imagem": "imagens/produtos/sacos-de-alta-densidade/1-kg.jpg",
+          "dimensoes": "15 x 32 cm — 0,018 mm"
+        },
+        {
+          "codigo": "008",
+          "nome": "1 KG",
+          "slug_categoria": "sacos-de-alta-densidade",
+          "imagem": "imagens/produtos/sacos-de-alta-densidade/1-kg.jpg",
+          "dimensoes": "16 x 32 cm — 0,018 mm"
+        },
+        {
+          "codigo": "009",
+          "nome": "2 KG",
+          "slug_categoria": "sacos-de-alta-densidade",
+          "imagem": "imagens/produtos/sacos-de-alta-densidade/2-kg.jpg",
+          "dimensoes": "20 x 35 cm — 0,018 mm"
+        },
+        {
+          "codigo": "010",
+          "nome": "3KG",
+          "slug_categoria": "sacos-de-alta-densidade",
+          "imagem": "imagens/produtos/sacos-de-alta-densidade/3kg.jpg",
+          "dimensoes": "24 x 38 cm — 0,018 mm"
+        },
+        {
+          "codigo": "012",
+          "nome": "5KG",
+          "slug_categoria": "sacos-de-alta-densidade",
+          "imagem": "imagens/produtos/sacos-de-alta-densidade/5kg.jpg",
+          "dimensoes": "28 x 44 cm — 0,018 mm"
+        },
+        {
+          "codigo": "013",
+          "nome": "10KG",
+          "slug_categoria": "sacos-de-alta-densidade",
+          "imagem": "imagens/produtos/sacos-de-alta-densidade/10kg.jpg",
+          "dimensoes": "40 x 60 cm — 0,018 mm"
+        }
+      ]
+    },
+    {
+      "slug": "sacos-de-baixa-densidade",
+      "nome": "Sacos De Baixa Densidade",
+      "produtos": [
+        {
+          "codigo": "015",
+          "nome": "SACO DINDIN 4,5X22",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/saco-dindin-4-5x22.jpg"
+        },
+        {
+          "codigo": "003",
+          "nome": "SACO DINDIN 5X25",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/saco-dindin-5x25.jpg"
+        },
+        {
+          "codigo": "020",
+          "nome": "SACO DINDIN 6X25",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/saco-dindin-6x25.jpg"
+        },
+        {
+          "codigo": "026",
+          "nome": "SACO 250G",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/saco-250g.jpg"
+        },
+        {
+          "nome": "SACO 500G",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/saco-500g.jpg"
+        },
+        {
+          "codigo": "029",
+          "nome": "SACO 1KG 13X32            FARINHA",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/saco-1kg-13x32-farinha.jpg"
+        },
+        {
+          "codigo": "030",
+          "nome": "SACO 1KG 14X32           FARINHA",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/saco-1kg-14x32-farinha.jpg"
+        },
+        {
+          "codigo": "031",
+          "nome": "SACO 1KG 15X32           FARINHA",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/saco-1kg-15x32-farinha.jpg"
+        },
+        {
+          "codigo": "035",
+          "nome": "SACO 1KG 15X32           POLPA AÇAI",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/saco-1kg-15x32-polpa-acai.jpg"
+        },
+        {
+          "codigo": "034",
+          "nome": "SACO 1KG 15X33           POLPA AÇAI",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/saco-1kg-15x33-polpa-acai.jpg"
+        },
+        {
+          "codigo": "037",
+          "nome": "2KG",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/2kg.jpg",
+          "dimensoes": "20 x 35 cm — 0,04 mm"
+        },
+        {
+          "codigo": "038",
+          "nome": "3KG",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/3kg.jpg",
+          "dimensoes": "24 x 38 cm — 0,04 mm"
+        },
+        {
+          "codigo": "039",
+          "nome": "CHEIRO VERDE",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/cheiro-verde.jpg",
+          "dimensoes": "11 x 44 cm — 0,04 mm"
+        },
+        {
+          "codigo": "186",
+          "nome": "PÃO DE FORMA",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/pao-de-forma.jpg",
+          "dimensoes": "22 x 44 cm — 0,04 mm"
+        },
+        {
+          "codigo": "040",
+          "nome": "5KG",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/5kg.jpg",
+          "dimensoes": "28 x 44 cm — 0,04 mm"
+        },
+        {
+          "codigo": "042",
+          "nome": "10KG",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/10kg.jpg",
+          "dimensoes": "40 x 60 cm — 0,04 mm"
+        },
+        {
+          "codigo": "047",
+          "nome": "CAPAFARDO VIRGEM",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/capafardo-virgem.jpg",
+          "dimensoes": "50 x 80 cm — 0,08 mm"
+        },
+        {
+          "codigo": "270",
+          "nome": "CAPAFARDO RECICLAD0",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/capafardo-reciclad0.jpg",
+          "dimensoes": "50 x 80 cm — 0,08 mm"
+        },
+        {
+          "codigo": "354",
+          "nome": "CAPAFARDO 60X100",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/capafardo-60x100.jpg",
+          "dimensoes": "60 x 100 cm — 0.08 mm"
+        },
+        {
+          "nome": "190",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/190.jpg"
+        },
+        {
+          "codigo": "539",
+          "nome": "PRODUTO DA CASA",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/produto-da-casa.jpg",
+          "unidade": "MIL"
+        },
+        {
+          "codigo": "540",
+          "nome": "PÃO DE FORMA",
+          "slug_categoria": "sacos-de-baixa-densidade",
+          "imagem": "imagens/produtos/sacos-de-baixa-densidade/pao-de-forma.jpg",
+          "unidade": "MIL"
+        }
+      ]
+    },
+    {
+      "slug": "sacos-de-rafia",
+      "nome": "Sacos De Rafia",
+      "produtos": [
+        {
+          "codigo": "204",
+          "nome": "SACO DE RAFIA",
+          "slug_categoria": "sacos-de-rafia",
+          "imagem": "imagens/produtos/sacos-de-rafia/saco-de-rafia.jpg",
+          "dimensoes": "60 x 90 cm — UNIDADE mm"
+        },
+        {
+          "codigo": "264",
+          "nome": "SACO DE RAFIA",
+          "slug_categoria": "sacos-de-rafia",
+          "imagem": "imagens/produtos/sacos-de-rafia/saco-de-rafia.jpg",
+          "dimensoes": "60 x 100 cm — UNIDADE mm"
+        },
+        {
+          "codigo": "192",
+          "nome": "SACO DE RAFIA",
+          "slug_categoria": "sacos-de-rafia",
+          "imagem": "imagens/produtos/sacos-de-rafia/saco-de-rafia.jpg",
+          "dimensoes": "70 x 100 cm — UNIDADE mm"
+        }
+      ]
+    },
+    {
+      "slug": "saco-de-lixo-pacote",
+      "nome": "Saco De  Lixo Pacote",
+      "produtos": [
+        {
+          "codigo": "132",
+          "nome": "SACO DE 30 L",
+          "slug_categoria": "saco-de-lixo-pacote",
+          "imagem": "imagens/produtos/saco-de-lixo-pacote/saco-de-30-l.jpg",
+          "unidade": "100pcts/com 10 unid"
+        },
+        {
+          "codigo": "203",
+          "nome": "SACO DE 30L RF",
+          "slug_categoria": "saco-de-lixo-pacote",
+          "imagem": "imagens/produtos/saco-de-lixo-pacote/saco-de-30l-rf.jpg",
+          "unidade": "100pcts/com 10 unid"
+        },
+        {
+          "codigo": "43",
+          "nome": "SACO DE 50 L",
+          "slug_categoria": "saco-de-lixo-pacote",
+          "imagem": "imagens/produtos/saco-de-lixo-pacote/saco-de-50-l.jpg",
+          "unidade": "100pcts/com 10 unid"
+        },
+        {
+          "codigo": "129",
+          "nome": "SACO DE 50L RF",
+          "slug_categoria": "saco-de-lixo-pacote",
+          "imagem": "imagens/produtos/saco-de-lixo-pacote/saco-de-50l-rf.jpg",
+          "unidade": "100pcts/com 10 unid"
+        },
+        {
+          "codigo": "127",
+          "nome": "SACO DE 100 L",
+          "slug_categoria": "saco-de-lixo-pacote",
+          "imagem": "imagens/produtos/saco-de-lixo-pacote/saco-de-100-l.jpg",
+          "unidade": "100pcts/com 05 unid"
+        },
+        {
+          "codigo": "130",
+          "nome": "SACO DE 100 RF",
+          "slug_categoria": "saco-de-lixo-pacote",
+          "imagem": "imagens/produtos/saco-de-lixo-pacote/saco-de-100-rf.jpg",
+          "unidade": "50pcts/com 05 unid"
+        },
+        {
+          "codigo": "279",
+          "nome": "SACO DE 120 REF",
+          "slug_categoria": "saco-de-lixo-pacote",
+          "imagem": "imagens/produtos/saco-de-lixo-pacote/saco-de-120-ref.jpg",
+          "unidade": "50pcts/com 05 unid"
+        },
+        {
+          "codigo": "128",
+          "nome": "SACO DE 200L L",
+          "slug_categoria": "saco-de-lixo-pacote",
+          "imagem": "imagens/produtos/saco-de-lixo-pacote/saco-de-200l-l.jpg",
+          "unidade": "50pcts/com 05 unid"
+        },
+        {
+          "codigo": "131",
+          "nome": "SACO DE 200L RF",
+          "slug_categoria": "saco-de-lixo-pacote",
+          "imagem": "imagens/produtos/saco-de-lixo-pacote/saco-de-200l-rf.jpg",
+          "unidade": "50pcts/com 05 unid"
+        },
+        {
+          "codigo": "503",
+          "nome": "SACO DE 300L RF",
+          "slug_categoria": "saco-de-lixo-pacote",
+          "imagem": "imagens/produtos/saco-de-lixo-pacote/saco-de-300l-rf.jpg",
+          "unidade": "50pcts/com 05 unid"
+        }
+      ]
+    },
+    {
+      "slug": "saco-de-lixo-a-granel",
+      "nome": "Saco De Lixo  A Granel",
+      "produtos": [
+        {
+          "codigo": "285",
+          "nome": "SACO DE LIXO 30L COMUM",
+          "slug_categoria": "saco-de-lixo-a-granel",
+          "imagem": "imagens/produtos/saco-de-lixo-a-granel/saco-de-lixo-30l-comum.jpg",
+          "dimensoes": "45 x 55 cm — 1110 mm"
+        },
+        {
+          "codigo": "231",
+          "nome": "SACO DE 30L RF",
+          "slug_categoria": "saco-de-lixo-a-granel",
+          "imagem": "imagens/produtos/saco-de-lixo-a-granel/saco-de-30l-rf.jpg",
+          "dimensoes": "45 x 55 cm — 160 mm"
+        },
+        {
+          "codigo": "251",
+          "nome": "SACO DE 50L COMUM",
+          "slug_categoria": "saco-de-lixo-a-granel",
+          "imagem": "imagens/produtos/saco-de-lixo-a-granel/saco-de-50l-comum.jpg",
+          "dimensoes": "55 x 65 cm — 110 mm"
+        },
+        {
+          "codigo": "232",
+          "nome": "SACO DE 50L RF",
+          "slug_categoria": "saco-de-lixo-a-granel",
+          "imagem": "imagens/produtos/saco-de-lixo-a-granel/saco-de-50l-rf.jpg",
+          "dimensoes": "55 x 65 cm — 160 mm"
+        },
+        {
+          "codigo": "236",
+          "nome": "SACO DE 100L COMUM",
+          "slug_categoria": "saco-de-lixo-a-granel",
+          "imagem": "imagens/produtos/saco-de-lixo-a-granel/saco-de-100l-comum.jpg",
+          "dimensoes": "72 x 85 cm — 190 mm"
+        },
+        {
+          "codigo": "233",
+          "nome": "SACO DE 100L RF",
+          "slug_categoria": "saco-de-lixo-a-granel",
+          "imagem": "imagens/produtos/saco-de-lixo-a-granel/saco-de-100l-rf.jpg",
+          "dimensoes": "72 x 85 cm — 310 mm"
+        },
+        {
+          "codigo": "504",
+          "nome": "SACO DE 120L COMUM",
+          "slug_categoria": "saco-de-lixo-a-granel",
+          "imagem": "imagens/produtos/saco-de-lixo-a-granel/saco-de-120l-comum.jpg",
+          "dimensoes": "80 x 90 cm — 395 mm"
+        },
+        {
+          "codigo": "234",
+          "nome": "SACO DE 120L RF",
+          "slug_categoria": "saco-de-lixo-a-granel",
+          "imagem": "imagens/produtos/saco-de-lixo-a-granel/saco-de-120l-rf.jpg",
+          "dimensoes": "80 x 90 cm — 440 mm"
+        },
+        {
+          "codigo": "237",
+          "nome": "SACO DE 200L COMUM",
+          "slug_categoria": "saco-de-lixo-a-granel",
+          "imagem": "imagens/produtos/saco-de-lixo-a-granel/saco-de-200l-comum.jpg",
+          "dimensoes": "85 x 98 cm — 430 mm"
+        },
+        {
+          "codigo": "235",
+          "nome": "SACO DE 200L RF",
+          "slug_categoria": "saco-de-lixo-a-granel",
+          "imagem": "imagens/produtos/saco-de-lixo-a-granel/saco-de-200l-rf.jpg",
+          "dimensoes": "85 x 98 cm — 570 mm"
+        }
+      ]
+    },
+    {
+      "slug": "filme-pvc",
+      "nome": "Filme Pvc",
+      "produtos": [
+        {
+          "codigo": "193",
+          "nome": "FILMITO",
+          "slug_categoria": "filme-pvc",
+          "imagem": "imagens/produtos/filme-pvc/filmito.jpg",
+          "dimensoes": "28 x 15 cm — 24 mm"
+        },
+        {
+          "codigo": "194",
+          "nome": "FILMITO",
+          "slug_categoria": "filme-pvc",
+          "imagem": "imagens/produtos/filme-pvc/filmito.jpg",
+          "dimensoes": "28 x 30 cm — 24 mm"
+        },
+        {
+          "codigo": "195",
+          "nome": "FILME PVC",
+          "slug_categoria": "filme-pvc",
+          "imagem": "imagens/produtos/filme-pvc/filme-pvc.jpg",
+          "dimensoes": "28 x 100 cm — 24 mm"
+        },
+        {
+          "codigo": "481",
+          "nome": "FILME PVC",
+          "slug_categoria": "filme-pvc",
+          "imagem": "imagens/produtos/filme-pvc/filme-pvc.jpg",
+          "dimensoes": "28 x 300 cm — 12 mm"
+        },
+        {
+          "codigo": "475",
+          "nome": "FILME PVC",
+          "slug_categoria": "filme-pvc",
+          "imagem": "imagens/produtos/filme-pvc/filme-pvc.jpg",
+          "dimensoes": "30 x 500 cm — 1 mm"
+        },
+        {
+          "codigo": "476",
+          "nome": "FILME PVC",
+          "slug_categoria": "filme-pvc",
+          "imagem": "imagens/produtos/filme-pvc/filme-pvc.jpg",
+          "dimensoes": "30 x 800 cm — 1 mm"
+        },
+        {
+          "codigo": "477",
+          "nome": "FILME PVC",
+          "slug_categoria": "filme-pvc",
+          "imagem": "imagens/produtos/filme-pvc/filme-pvc.jpg",
+          "dimensoes": "30 x 1000 cm — 1 mm"
+        },
+        {
+          "codigo": "478",
+          "nome": "FILME PVC",
+          "slug_categoria": "filme-pvc",
+          "imagem": "imagens/produtos/filme-pvc/filme-pvc.jpg",
+          "dimensoes": "38 x 500 cm — 1 mm"
+        },
+        {
+          "codigo": "479",
+          "nome": "FILME PVC",
+          "slug_categoria": "filme-pvc",
+          "imagem": "imagens/produtos/filme-pvc/filme-pvc.jpg",
+          "dimensoes": "38 x 800 cm — 1 mm"
+        },
+        {
+          "codigo": "480",
+          "nome": "FILME PVC",
+          "slug_categoria": "filme-pvc",
+          "imagem": "imagens/produtos/filme-pvc/filme-pvc.jpg",
+          "dimensoes": "38 x 1000 cm — 1 mm"
+        }
+      ]
+    },
+    {
+      "slug": "linha-prato",
+      "nome": "Linha Prato",
+      "produtos": [
+        {
+          "codigo": "079",
+          "nome": "PRATO - 15",
+          "slug_categoria": "linha-prato",
+          "imagem": "imagens/produtos/linha-prato/prato-15.jpg"
+        },
+        {
+          "codigo": "080",
+          "nome": "PRATO - 18",
+          "slug_categoria": "linha-prato",
+          "imagem": "imagens/produtos/linha-prato/prato-18.jpg"
+        },
+        {
+          "codigo": "081",
+          "nome": "PRATO - 21",
+          "slug_categoria": "linha-prato",
+          "imagem": "imagens/produtos/linha-prato/prato-21.jpg"
+        },
+        {
+          "codigo": "082",
+          "nome": "PRATO - 23",
+          "slug_categoria": "linha-prato",
+          "imagem": "imagens/produtos/linha-prato/prato-23.jpg"
+        },
+        {
+          "codigo": "83",
+          "nome": "PRATO - 26",
+          "slug_categoria": "linha-prato",
+          "imagem": "imagens/produtos/linha-prato/prato-26.jpg"
+        },
+        {
+          "codigo": "084",
+          "nome": "PRT FUNDO 12",
+          "slug_categoria": "linha-prato",
+          "imagem": "imagens/produtos/linha-prato/prt-fundo-12.jpg"
+        },
+        {
+          "codigo": "085",
+          "nome": "PRT FUNDO 15",
+          "slug_categoria": "linha-prato",
+          "imagem": "imagens/produtos/linha-prato/prt-fundo-15.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "linha-talheres",
+      "nome": "Linha Talheres",
+      "produtos": [
+        {
+          "codigo": "067",
+          "nome": "COLHER REFEIÇAO",
+          "slug_categoria": "linha-talheres",
+          "imagem": "imagens/produtos/linha-talheres/colher-refeicao.jpg",
+          "unidade": "20 X 50 UNID"
+        },
+        {
+          "codigo": "100",
+          "nome": "COLHER SOBREMESA",
+          "slug_categoria": "linha-talheres",
+          "imagem": "imagens/produtos/linha-talheres/colher-sobremesa.jpg",
+          "unidade": "20 X 50 UNID"
+        },
+        {
+          "codigo": "069",
+          "nome": "GARFO",
+          "slug_categoria": "linha-talheres",
+          "imagem": "imagens/produtos/linha-talheres/garfo.jpg",
+          "unidade": "20 X 50 UNID"
+        },
+        {
+          "codigo": "070",
+          "nome": "FACA",
+          "slug_categoria": "linha-talheres",
+          "imagem": "imagens/produtos/linha-talheres/faca.jpg",
+          "unidade": "40 X 25 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "linha-copo-descartaveis",
+      "nome": "Linha Copo Descartaveis",
+      "produtos": [
+        {
+          "codigo": "118",
+          "nome": "COPO DESC  50ML",
+          "slug_categoria": "linha-copo-descartaveis",
+          "imagem": "imagens/produtos/linha-copo-descartaveis/copo-desc-50ml.jpg",
+          "unidade": "50X100"
+        },
+        {
+          "codigo": "443",
+          "nome": "COPO DESC  80ML",
+          "slug_categoria": "linha-copo-descartaveis",
+          "imagem": "imagens/produtos/linha-copo-descartaveis/copo-desc-80ml.jpg",
+          "unidade": "50X100"
+        },
+        {
+          "codigo": "119",
+          "nome": "COP0  DESC 120ML",
+          "slug_categoria": "linha-copo-descartaveis",
+          "imagem": "imagens/produtos/linha-copo-descartaveis/cop0-desc-120ml.jpg",
+          "unidade": "25X100"
+        },
+        {
+          "codigo": "120",
+          "nome": "COPO DESC 180ML",
+          "slug_categoria": "linha-copo-descartaveis",
+          "imagem": "imagens/produtos/linha-copo-descartaveis/copo-desc-180ml.jpg",
+          "unidade": "25X100"
+        },
+        {
+          "codigo": "121",
+          "nome": "COPO DESC 200ML",
+          "slug_categoria": "linha-copo-descartaveis",
+          "imagem": "imagens/produtos/linha-copo-descartaveis/copo-desc-200ml.jpg",
+          "unidade": "25X100"
+        },
+        {
+          "codigo": "122",
+          "nome": "COPO DESC 250ML",
+          "slug_categoria": "linha-copo-descartaveis",
+          "imagem": "imagens/produtos/linha-copo-descartaveis/copo-desc-250ml.jpg",
+          "unidade": "20X100"
+        },
+        {
+          "codigo": "123",
+          "nome": "COPO DESC 300ML",
+          "slug_categoria": "linha-copo-descartaveis",
+          "imagem": "imagens/produtos/linha-copo-descartaveis/copo-desc-300ml.jpg",
+          "unidade": "20X100"
+        },
+        {
+          "codigo": "159",
+          "nome": "COPO DESC 400ML",
+          "slug_categoria": "linha-copo-descartaveis",
+          "imagem": "imagens/produtos/linha-copo-descartaveis/copo-desc-400ml.jpg",
+          "unidade": "20X100"
+        },
+        {
+          "codigo": "160",
+          "nome": "COPO DESC 500ML",
+          "slug_categoria": "linha-copo-descartaveis",
+          "imagem": "imagens/produtos/linha-copo-descartaveis/copo-desc-500ml.jpg",
+          "unidade": "20X100"
+        },
+        {
+          "codigo": "260",
+          "nome": "COPO DESC 550ML",
+          "slug_categoria": "linha-copo-descartaveis",
+          "imagem": "imagens/produtos/linha-copo-descartaveis/copo-desc-550ml.jpg",
+          "unidade": "20X100"
+        }
+      ]
+    },
+    {
+      "slug": "marmitas",
+      "nome": "Marmitas",
+      "produtos": [
+        {
+          "codigo": "156",
+          "nome": "MARMITA DE ALUMINIO",
+          "slug_categoria": "marmitas",
+          "imagem": "imagens/produtos/marmitas/marmita-de-aluminio.jpg",
+          "unidade": "CX COM 100 UNID"
+        },
+        {
+          "codigo": "133",
+          "nome": "MARMITA DE ISOPOR",
+          "slug_categoria": "marmitas",
+          "imagem": "imagens/produtos/marmitas/marmita-de-isopor.jpg",
+          "unidade": "FARDO COM 50 UNID"
+        },
+        {
+          "codigo": "175",
+          "nome": "BANDEJA B1 DE ISOPOR",
+          "slug_categoria": "marmitas",
+          "imagem": "imagens/produtos/marmitas/bandeja-b1-de-isopor.jpg",
+          "unidade": "FARDO C/ 400 UNID"
+        },
+        {
+          "codigo": "484",
+          "nome": "BANDEJA B2 DE ISOPOR",
+          "slug_categoria": "marmitas",
+          "imagem": "imagens/produtos/marmitas/bandeja-b2-de-isopor.jpg",
+          "unidade": "FARDO C/ 400 UNID"
+        },
+        {
+          "codigo": "165",
+          "nome": "HAMBURGUEIRA",
+          "slug_categoria": "marmitas",
+          "imagem": "imagens/produtos/marmitas/hamburgueira.jpg",
+          "unidade": "FARDO C/ 400 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "papel-aluminio",
+      "nome": "Papel Aluminio",
+      "produtos": [
+        {
+          "codigo": "219",
+          "nome": "ROLO 30CM X  4M",
+          "slug_categoria": "papel-aluminio",
+          "imagem": "imagens/produtos/papel-aluminio/rolo-30cm-x-4m.jpg",
+          "unidade": "CX COM 25CX"
+        },
+        {
+          "codigo": "220",
+          "nome": "ROLO 30CM X  7,5M",
+          "slug_categoria": "papel-aluminio",
+          "imagem": "imagens/produtos/papel-aluminio/rolo-30cm-x-7-5m.jpg",
+          "unidade": "CX COM 25CX"
+        },
+        {
+          "codigo": "221",
+          "nome": "ROLO 45CM X  4M",
+          "slug_categoria": "papel-aluminio",
+          "imagem": "imagens/produtos/papel-aluminio/rolo-45cm-x-4m.jpg",
+          "unidade": "CX COM 25CX"
+        },
+        {
+          "codigo": "222",
+          "nome": "ROLO 45CM X 7,5M",
+          "slug_categoria": "papel-aluminio",
+          "imagem": "imagens/produtos/papel-aluminio/rolo-45cm-x-7-5m.jpg",
+          "unidade": "CX COM 25CX"
+        }
+      ]
+    },
+    {
+      "slug": "saco-de-hamburguer-pipoca",
+      "nome": "Saco De  Hamburguer / Pipoca",
+      "produtos": [
+        {
+          "codigo": "537",
+          "nome": "SACO  HAMBURGER C/500 LISO BRANCO",
+          "slug_categoria": "saco-de-hamburguer-pipoca",
+          "imagem": "imagens/produtos/saco-de-hamburguer-pipoca/saco-hamburger-c-500-liso-branco.jpg",
+          "unidade": "MH"
+        },
+        {
+          "codigo": "135",
+          "nome": "SACO HAMBURGER C/500 IMPRESSO BRANCO",
+          "slug_categoria": "saco-de-hamburguer-pipoca",
+          "imagem": "imagens/produtos/saco-de-hamburguer-pipoca/saco-hamburger-c-500-impresso-branco.jpg",
+          "unidade": "MH"
+        },
+        {
+          "codigo": "538",
+          "nome": "SACO HAMBURGER C/500 IMPRESSO KRAFT",
+          "slug_categoria": "saco-de-hamburguer-pipoca",
+          "imagem": "imagens/produtos/saco-de-hamburguer-pipoca/saco-hamburger-c-500-impresso-kraft.jpg",
+          "unidade": "MH"
+        },
+        {
+          "codigo": "134",
+          "nome": "SACO HAMBURGÃO C/500 IMPRESSO BRANCO",
+          "slug_categoria": "saco-de-hamburguer-pipoca",
+          "imagem": "imagens/produtos/saco-de-hamburguer-pipoca/saco-hamburgao-c-500-impresso-branco.jpg",
+          "unidade": "MH"
+        },
+        {
+          "codigo": "539",
+          "nome": "SACO HAMBURGÃO C/500 IMPRESSO KRAFT",
+          "slug_categoria": "saco-de-hamburguer-pipoca",
+          "imagem": "imagens/produtos/saco-de-hamburguer-pipoca/saco-hamburgao-c-500-impresso-kraft.jpg",
+          "unidade": "MH"
+        },
+        {
+          "codigo": "540",
+          "nome": "PAPEL ACOPLADO 30X38CM CX C/400",
+          "slug_categoria": "saco-de-hamburguer-pipoca",
+          "imagem": "imagens/produtos/saco-de-hamburguer-pipoca/papel-acoplado-30x38cm-cx-c-400.jpg",
+          "unidade": "CX"
+        },
+        {
+          "codigo": "112",
+          "nome": "SACO PIPOCA LISA C/500 I",
+          "slug_categoria": "saco-de-hamburguer-pipoca",
+          "imagem": "imagens/produtos/saco-de-hamburguer-pipoca/saco-pipoca-lisa-c-500-i.jpg",
+          "unidade": "MH"
+        }
+      ]
+    },
+    {
+      "slug": "caixas-para-pizzas-oitavada",
+      "nome": "Caixas Para Pizzas Oitavada",
+      "produtos": [
+        {
+          "codigo": "142",
+          "nome": "TAMANHO 25 CM",
+          "slug_categoria": "caixas-para-pizzas-oitavada",
+          "imagem": "imagens/produtos/caixas-para-pizzas-oitavada/tamanho-25-cm.jpg",
+          "unidade": "10 UNID"
+        },
+        {
+          "codigo": "143",
+          "nome": "TAMANHO 30 CM",
+          "slug_categoria": "caixas-para-pizzas-oitavada",
+          "imagem": "imagens/produtos/caixas-para-pizzas-oitavada/tamanho-30-cm.jpg",
+          "unidade": "10 UNID"
+        },
+        {
+          "codigo": "148",
+          "nome": "TAMANHO 35 CM",
+          "slug_categoria": "caixas-para-pizzas-oitavada",
+          "imagem": "imagens/produtos/caixas-para-pizzas-oitavada/tamanho-35-cm.jpg",
+          "unidade": "10 UNID"
+        },
+        {
+          "codigo": "144",
+          "nome": "TAMANHO 40 CM",
+          "slug_categoria": "caixas-para-pizzas-oitavada",
+          "imagem": "imagens/produtos/caixas-para-pizzas-oitavada/tamanho-40-cm.jpg",
+          "unidade": "10 UNID"
+        },
+        {
+          "codigo": "178",
+          "nome": "TAMANHO 45 CM",
+          "slug_categoria": "caixas-para-pizzas-oitavada",
+          "imagem": "imagens/produtos/caixas-para-pizzas-oitavada/tamanho-45-cm.jpg",
+          "unidade": "10 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "caixas-para-peixe",
+      "nome": "Caixas Para Peixe",
+      "produtos": [
+        {
+          "codigo": "145",
+          "nome": "TAMANHO 25CM X 50CM X 5CM",
+          "slug_categoria": "caixas-para-peixe",
+          "imagem": "imagens/produtos/caixas-para-peixe/tamanho-25cm-x-50cm-x-5cm.jpg",
+          "unidade": "10 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "caixa-para-frango",
+      "nome": "Caixa Para Frango",
+      "produtos": [
+        {
+          "codigo": "169",
+          "nome": "TAMANHO 35M X 35M X 5CM",
+          "slug_categoria": "caixa-para-frango",
+          "imagem": "imagens/produtos/caixa-para-frango/tamanho-35m-x-35m-x-5cm.jpg",
+          "unidade": "10 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "caixas-para-doces-e-salgados",
+      "nome": "Caixas Para Doces E Salgados",
+      "produtos": [
+        {
+          "codigo": "147",
+          "nome": "QUADRADA 35CM",
+          "slug_categoria": "caixas-para-doces-e-salgados",
+          "imagem": "imagens/produtos/caixas-para-doces-e-salgados/quadrada-35cm.jpg",
+          "unidade": "10 UNID"
+        },
+        {
+          "codigo": "146",
+          "nome": "OITAVADA 40CM",
+          "slug_categoria": "caixas-para-doces-e-salgados",
+          "imagem": "imagens/produtos/caixas-para-doces-e-salgados/oitavada-40cm.jpg",
+          "unidade": "10 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "sacos-para-delivery",
+      "nome": "Sacos Para Delivery",
+      "produtos": [
+        {
+          "codigo": "505",
+          "nome": "TAMANHO 31CMX20CM  LISO OU TIMBRADO",
+          "slug_categoria": "sacos-para-delivery",
+          "imagem": "imagens/produtos/sacos-para-delivery/tamanho-31cmx20cm-liso-ou-timbrado.jpg",
+          "unidade": "100 UNID"
+        },
+        {
+          "codigo": "506",
+          "nome": "TAMANHO 33CMX25CM  LISO OU TIMBRADO",
+          "slug_categoria": "sacos-para-delivery",
+          "imagem": "imagens/produtos/sacos-para-delivery/tamanho-33cmx25cm-liso-ou-timbrado.jpg",
+          "unidade": "100 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "sacolas-kraft",
+      "nome": "Sacolas Kraft",
+      "produtos": [
+        {
+          "codigo": "507",
+          "nome": "SACOLA TAMANHO P 25 X 21 X 10 CM",
+          "slug_categoria": "sacolas-kraft",
+          "imagem": "imagens/produtos/sacolas-kraft/sacola-tamanho-p-25-x-21-x-10-cm.jpg",
+          "unidade": "100 UNID"
+        },
+        {
+          "codigo": "508",
+          "nome": "SACOLA TAMANHO G 31 X 26 X 13 CM",
+          "slug_categoria": "sacolas-kraft",
+          "imagem": "imagens/produtos/sacolas-kraft/sacola-tamanho-g-31-x-26-x-13-cm.jpg",
+          "unidade": "50UNID"
+        }
+      ]
+    },
+    {
+      "slug": "sacos-para-talheres",
+      "nome": "Sacos Para Talheres",
+      "produtos": [
+        {
+          "codigo": "509",
+          "nome": "PAPEL BRANCO 7 X 22CM",
+          "slug_categoria": "sacos-para-talheres",
+          "imagem": "imagens/produtos/sacos-para-talheres/papel-branco-7-x-22cm.jpg",
+          "unidade": "FARD C 12 PCTE DE 500UNID"
+        },
+        {
+          "codigo": "510",
+          "nome": "PAPEL BRANCO 7 X 22CM",
+          "slug_categoria": "sacos-para-talheres",
+          "imagem": "imagens/produtos/sacos-para-talheres/papel-branco-7-x-22cm.jpg",
+          "unidade": "FARD C 12 PCTE DE 500UNID"
+        }
+      ]
+    },
+    {
+      "slug": "sacos-para-carvao",
+      "nome": "Sacos Para Carvão",
+      "produtos": [
+        {
+          "codigo": "149",
+          "nome": "SACO PARA CARVÃO 1,5KG",
+          "slug_categoria": "sacos-para-carvao",
+          "imagem": "imagens/produtos/sacos-para-carvao/saco-para-carvao-1-5kg.jpg",
+          "unidade": "250 UNID"
+        },
+        {
+          "codigo": "191",
+          "nome": "SACO PARA CARVÃO 3 KG",
+          "slug_categoria": "sacos-para-carvao",
+          "imagem": "imagens/produtos/sacos-para-carvao/saco-para-carvao-3-kg.jpg",
+          "unidade": "250 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "guardanapo-sache",
+      "nome": "Guardanapo Sachê",
+      "produtos": [
+        {
+          "codigo": "512",
+          "nome": "TAMANHO 30 X 20 CM 1000 SACHE COM 2UNID",
+          "slug_categoria": "guardanapo-sache",
+          "imagem": "imagens/produtos/guardanapo-sache/tamanho-30-x-20-cm-1000-sache-com-2unid.jpg",
+          "unidade": "1000 SACHÊS C 2 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "pano-de-prato-coador",
+      "nome": "Pano De Prato  Coador",
+      "produtos": [
+        {
+          "codigo": "106",
+          "nome": "PANO DE CHÃO GROSS0",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/pano-de-chao-gross0.jpg"
+        },
+        {
+          "codigo": "105",
+          "nome": "PANO DE CHÃO FINO",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/pano-de-chao-fino.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "374",
+          "nome": "FLANELA PEQUENA",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/flanela-pequena.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "104",
+          "nome": "FLANELA MEDIA",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/flanela-media.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "103",
+          "nome": "FLANELA GRANDE",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/flanela-grande.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "108",
+          "nome": "PANO DE PRATO  PEQUENO",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/pano-de-prato-pequeno.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "172",
+          "nome": "PANO DE PRATO GRANDE",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/pano-de-prato-grande.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "369",
+          "nome": "COADOR PREMIUM GRANDE",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/coador-premium-grande.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "370",
+          "nome": "COADOR PREMIUM MEDIO",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/coador-premium-medio.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "101",
+          "nome": "COADOR GRANDE",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/coador-grande.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "102",
+          "nome": "COADOR MEDIO",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/coador-medio.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "374",
+          "nome": "FLANELA PEQUENA",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/flanela-pequena.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "104",
+          "nome": "FLANELA MEDIA",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/flanela-media.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "103",
+          "nome": "FLANELA GRANDE",
+          "slug_categoria": "pano-de-prato-coador",
+          "imagem": "imagens/produtos/pano-de-prato-coador/flanela-grande.jpg",
+          "unidade": "DUZIA"
+        }
+      ]
+    },
+    {
+      "slug": "vel-as-de-aniversario",
+      "nome": "Vel As De Aniversário",
+      "produtos": [
+        {
+          "codigo": "442",
+          "nome": "VELAS POPER",
+          "slug_categoria": "vel-as-de-aniversario",
+          "imagem": "imagens/produtos/vel-as-de-aniversario/velas-poper.jpg"
+        },
+        {
+          "codigo": "513",
+          "nome": "VELAS  POPER CHUVA PRATA FINA COLOR",
+          "slug_categoria": "vel-as-de-aniversario",
+          "imagem": "imagens/produtos/vel-as-de-aniversario/velas-poper-chuva-prata-fina-color.jpg",
+          "unidade": "COM 100 UNID"
+        },
+        {
+          "codigo": "514",
+          "nome": "VELAS  POPER CHUVA PRATA FINA PRATA",
+          "slug_categoria": "vel-as-de-aniversario",
+          "imagem": "imagens/produtos/vel-as-de-aniversario/velas-poper-chuva-prata-fina-prata.jpg",
+          "unidade": "COM 100 UNID"
+        },
+        {
+          "codigo": "515",
+          "nome": "VELAS POPER ESTRELA",
+          "slug_categoria": "vel-as-de-aniversario",
+          "imagem": "imagens/produtos/vel-as-de-aniversario/velas-poper-estrela.jpg"
+        },
+        {
+          "codigo": "516",
+          "nome": "VELAS POPER CORAÇÃO",
+          "slug_categoria": "vel-as-de-aniversario",
+          "imagem": "imagens/produtos/vel-as-de-aniversario/velas-poper-coracao.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "linha-bebe",
+      "nome": "Linha Bebe",
+      "produtos": [
+        {
+          "codigo": "485",
+          "nome": "MAMADEIRA 240ML",
+          "slug_categoria": "linha-bebe",
+          "imagem": "imagens/produtos/linha-bebe/mamadeira-240ml.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "486",
+          "nome": "MAMADEIRA 150ML",
+          "slug_categoria": "linha-bebe",
+          "imagem": "imagens/produtos/linha-bebe/mamadeira-150ml.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "497",
+          "nome": "CHUPETA BICO REDONDO",
+          "slug_categoria": "linha-bebe",
+          "imagem": "imagens/produtos/linha-bebe/chupeta-bico-redondo.jpg",
+          "unidade": "25 UNIDADES"
+        },
+        {
+          "codigo": "496",
+          "nome": "CHUPETA BICO CHATO",
+          "slug_categoria": "linha-bebe",
+          "imagem": "imagens/produtos/linha-bebe/chupeta-bico-chato.jpg",
+          "unidade": "25 UNIDADES"
+        },
+        {
+          "codigo": "495",
+          "nome": "BICO MAMADEIRA",
+          "slug_categoria": "linha-bebe",
+          "imagem": "imagens/produtos/linha-bebe/bico-mamadeira.jpg",
+          "unidade": "25 UNIDADES"
+        }
+      ]
+    },
+    {
+      "slug": "alicate-de-unha",
+      "nome": "Alicate De Unha",
+      "produtos": [
+        {
+          "codigo": "517",
+          "nome": "ALICATE UNHA MERHEJE",
+          "slug_categoria": "alicate-de-unha",
+          "imagem": "imagens/produtos/alicate-de-unha/alicate-unha-merheje.jpg",
+          "unidade": "UNID"
+        },
+        {
+          "codigo": "518",
+          "nome": "ALICATE UNHA MUNDIAL",
+          "slug_categoria": "alicate-de-unha",
+          "imagem": "imagens/produtos/alicate-de-unha/alicate-unha-mundial.jpg",
+          "unidade": "UNID"
+        },
+        {
+          "codigo": "519",
+          "nome": "ALICATE UNHA MERHEJE  C/ ESPATULA",
+          "slug_categoria": "alicate-de-unha",
+          "imagem": "imagens/produtos/alicate-de-unha/alicate-unha-merheje-c-espatula.jpg",
+          "unidade": "UNID"
+        },
+        {
+          "codigo": "520",
+          "nome": "ALICATE UNHA MERHEJE  C/ PINÇA",
+          "slug_categoria": "alicate-de-unha",
+          "imagem": "imagens/produtos/alicate-de-unha/alicate-unha-merheje-c-pinca.jpg",
+          "unidade": "UNID"
+        },
+        {
+          "codigo": "521",
+          "nome": "ALICATE UNHA MUNDIAL C/ ESPATULA",
+          "slug_categoria": "alicate-de-unha",
+          "imagem": "imagens/produtos/alicate-de-unha/alicate-unha-mundial-c-espatula.jpg",
+          "unidade": "UNID"
+        },
+        {
+          "codigo": "522",
+          "nome": "ALICATE UNHA MUNDIAL C/ PINÇA",
+          "slug_categoria": "alicate-de-unha",
+          "imagem": "imagens/produtos/alicate-de-unha/alicate-unha-mundial-c-pinca.jpg",
+          "unidade": "UNID"
+        }
+      ]
+    },
+    {
+      "slug": "luvas-e-toucas",
+      "nome": "Luvas E Toucas",
+      "produtos": [
+        {
+          "codigo": "523",
+          "nome": "LUVA VINIL",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/luva-vinil.jpg",
+          "unidade": "COM 100 UNID"
+        },
+        {
+          "codigo": "524",
+          "nome": "LUVA LATEX",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/luva-latex.jpg",
+          "unidade": "COM 100 UNID"
+        },
+        {
+          "codigo": "525",
+          "nome": "LUVA VINIL PLUS",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/luva-vinil-plus.jpg",
+          "unidade": "COM 100 UNID"
+        },
+        {
+          "codigo": "490",
+          "nome": "LUVA NITRLICA (SALÃO)",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/luva-nitrlica-salao.jpg",
+          "unidade": "COM 100 UNID"
+        },
+        {
+          "codigo": "526",
+          "nome": "TOUCA NYLON",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/touca-nylon.jpg",
+          "unidade": "COM  50 UNID"
+        },
+        {
+          "codigo": "474",
+          "nome": "TOUCA DESCARTAVEIS",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/touca-descartaveis.jpg",
+          "unidade": "COM  50 UNID"
+        },
+        {
+          "codigo": "207",
+          "nome": "FITAS ADESIVAS  12X40 PCTE C/ 12",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/fitas-adesivas-12x40-pcte-c-12.jpg",
+          "unidade": "PCTE"
+        },
+        {
+          "codigo": "206",
+          "nome": "FITAS ADESIVAS  45X50 PCTE C/ 06",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/fitas-adesivas-45x50-pcte-c-06.jpg",
+          "unidade": "PCTE"
+        },
+        {
+          "codigo": "181",
+          "nome": "FITAS ADESIVAS  45X100 PCTE C/ 05",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/fitas-adesivas-45x100-pcte-c-05.jpg",
+          "unidade": "PCTE"
+        },
+        {
+          "codigo": "466",
+          "nome": "FITAS ADESIVAS  45X50 PCTE C/ 06   COLOR",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/fitas-adesivas-45x50-pcte-c-06-color.jpg",
+          "unidade": "PCTE"
+        },
+        {
+          "codigo": "284",
+          "nome": "FITAS ADESIVAS  45X500",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/fitas-adesivas-45x500.jpg",
+          "unidade": "UNID"
+        },
+        {
+          "codigo": "167",
+          "nome": "FITILHO",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/fitilho.jpg",
+          "unidade": "UNID"
+        },
+        {
+          "nome": "FITILHO BRANCO FARDO COM 40",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/fitilho-branco-fardo-com-40.jpg",
+          "unidade": "FARDO"
+        },
+        {
+          "codigo": "491",
+          "nome": "CORTADOR DE UNHA OVAL MEDIO",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/cortador-de-unha-oval-medio.jpg",
+          "unidade": "CART C/12"
+        },
+        {
+          "codigo": "492",
+          "nome": "COTRTADOR DE UMHA GDE",
+          "slug_categoria": "luvas-e-toucas",
+          "imagem": "imagens/produtos/luvas-e-toucas/cotrtador-de-umha-gde.jpg",
+          "unidade": "CART C/06"
+        }
+      ]
+    },
+    {
+      "slug": "pentes-e-escovas",
+      "nome": "Pentes E Escovas",
+      "produtos": [
+        {
+          "codigo": "527",
+          "nome": "ESCOVA ALMOFADA QUADRADA",
+          "slug_categoria": "pentes-e-escovas",
+          "imagem": "imagens/produtos/pentes-e-escovas/escova-almofada-quadrada.jpg"
+        },
+        {
+          "codigo": "528",
+          "nome": "ESCOVA ALMOFADA OVAL",
+          "slug_categoria": "pentes-e-escovas",
+          "imagem": "imagens/produtos/pentes-e-escovas/escova-almofada-oval.jpg"
+        },
+        {
+          "codigo": "529",
+          "nome": "ESCOVA CABELO CACHEADO",
+          "slug_categoria": "pentes-e-escovas",
+          "imagem": "imagens/produtos/pentes-e-escovas/escova-cabelo-cacheado.jpg"
+        },
+        {
+          "codigo": "530",
+          "nome": "PENTE BLACK POWER",
+          "slug_categoria": "pentes-e-escovas",
+          "imagem": "imagens/produtos/pentes-e-escovas/pente-black-power.jpg",
+          "unidade": "PCTE 24 UIND"
+        },
+        {
+          "codigo": "531",
+          "nome": "PENTE DESEMBARAÇADOR",
+          "slug_categoria": "pentes-e-escovas",
+          "imagem": "imagens/produtos/pentes-e-escovas/pente-desembaracador.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "532",
+          "nome": "PENTE TINTURA",
+          "slug_categoria": "pentes-e-escovas",
+          "imagem": "imagens/produtos/pentes-e-escovas/pente-tintura.jpg",
+          "unidade": "PCTE24 UNID"
+        },
+        {
+          "codigo": "533",
+          "nome": "PENTE PROFISSIONAL",
+          "slug_categoria": "pentes-e-escovas",
+          "imagem": "imagens/produtos/pentes-e-escovas/pente-profissional.jpg",
+          "unidade": "PCTE24 UNID"
+        },
+        {
+          "codigo": "534",
+          "nome": "PENTE MASCULINO",
+          "slug_categoria": "pentes-e-escovas",
+          "imagem": "imagens/produtos/pentes-e-escovas/pente-masculino.jpg",
+          "unidade": "PCTE24 UNID"
+        },
+        {
+          "codigo": "535",
+          "nome": "PENTE MARAVILHA",
+          "slug_categoria": "pentes-e-escovas",
+          "imagem": "imagens/produtos/pentes-e-escovas/pente-maravilha.jpg",
+          "unidade": "PCTE24 UNID"
+        },
+        {
+          "codigo": "536",
+          "nome": "PENTE MARAVILHA BABY",
+          "slug_categoria": "pentes-e-escovas",
+          "imagem": "imagens/produtos/pentes-e-escovas/pente-maravilha-baby.jpg",
+          "unidade": "PCTE24 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "variedades",
+      "nome": "Variedades",
+      "produtos": [
+        {
+          "codigo": "537",
+          "nome": "ALGODÃO CAIXA",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/algodao-caixa.jpg",
+          "unidade": "PCTE C/ 10 CX"
+        },
+        {
+          "codigo": "538",
+          "nome": "ALGODÃO BOLA",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/algodao-bola.jpg",
+          "unidade": "PCTE COM  20"
+        },
+        {
+          "codigo": "539",
+          "nome": "ALGODÃO BOLA COLOR",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/algodao-bola-color.jpg",
+          "unidade": "PCTE COM  20"
+        },
+        {
+          "codigo": "540",
+          "nome": "COTONETES PCTE 10 CX COM 75 UNID",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/cotonetes-pcte-10-cx-com-75-unid.jpg",
+          "unidade": "PCTE COM  12"
+        },
+        {
+          "codigo": "541",
+          "nome": "PRENDEDOR DE PVC",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/prendedor-de-pvc.jpg",
+          "unidade": "PCTE COM 10 DUZ"
+        },
+        {
+          "codigo": "542",
+          "nome": "PRENDEDOR DE MADEIRA",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/prendedor-de-madeira.jpg",
+          "unidade": "PCTE COM 10 DUZ"
+        },
+        {
+          "codigo": "543",
+          "nome": "ESCOVA DE MADEIRA",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/escova-de-madeira.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "544",
+          "nome": "ESCOVA DE PLASTIC0",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/escova-de-plastic0.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "545",
+          "nome": "CORDA PARA VARAL N¹ 05",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/corda-para-varal-n-05.jpg",
+          "unidade": "PCTE"
+        },
+        {
+          "codigo": "546",
+          "nome": "CORDA PARA VARAL N¹ 07",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/corda-para-varal-n-07.jpg",
+          "unidade": "PCTE"
+        },
+        {
+          "codigo": "547",
+          "nome": "CORDA PARA VARAL N¹ 10",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/corda-para-varal-n-10.jpg",
+          "unidade": "PCTE"
+        },
+        {
+          "codigo": "548",
+          "nome": "CORDA PARA VARAL  CABO AZUL",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/corda-para-varal-cabo-azul.jpg",
+          "unidade": "PCTE"
+        },
+        {
+          "codigo": "265",
+          "nome": "ISQUEIRO GRANDE",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/isqueiro-grande.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "452",
+          "nome": "ISQUEIRO PEQUENO",
+          "slug_categoria": "variedades",
+          "imagem": "imagens/produtos/variedades/isqueiro-pequeno.jpg",
+          "unidade": "DUZIA"
+        }
+      ]
+    },
+    {
+      "slug": "rodo-vassoura-e-escovao",
+      "nome": "Rodo Vassoura E Escovão",
+      "produtos": [
+        {
+          "codigo": "542",
+          "nome": "VASSOURA VARRE CANTO PLUS",
+          "slug_categoria": "rodo-vassoura-e-escovao",
+          "imagem": "imagens/produtos/rodo-vassoura-e-escovao/vassoura-varre-canto-plus.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "543",
+          "nome": "VASSOURA VARRE CANTO CRISTAL",
+          "slug_categoria": "rodo-vassoura-e-escovao",
+          "imagem": "imagens/produtos/rodo-vassoura-e-escovao/vassoura-varre-canto-cristal.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "544",
+          "nome": "VASSOURA CRISTAL SOFT COLOR",
+          "slug_categoria": "rodo-vassoura-e-escovao",
+          "imagem": "imagens/produtos/rodo-vassoura-e-escovao/vassoura-cristal-soft-color.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "199",
+          "nome": "VASSOURA PIAÇAVA",
+          "slug_categoria": "rodo-vassoura-e-escovao",
+          "imagem": "imagens/produtos/rodo-vassoura-e-escovao/vassoura-piacava.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "545",
+          "nome": "EESCOVÃO CRISTAL",
+          "slug_categoria": "rodo-vassoura-e-escovao",
+          "imagem": "imagens/produtos/rodo-vassoura-e-escovao/eescovao-cristal.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "codigo": "546",
+          "nome": "PÁ CABO CURTO",
+          "slug_categoria": "rodo-vassoura-e-escovao",
+          "imagem": "imagens/produtos/rodo-vassoura-e-escovao/pa-cabo-curto.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "nome": "RODO  30CM",
+          "slug_categoria": "rodo-vassoura-e-escovao",
+          "imagem": "imagens/produtos/rodo-vassoura-e-escovao/rodo-30cm.jpg",
+          "unidade": "DUZIA"
+        },
+        {
+          "nome": "RODO  40CM",
+          "slug_categoria": "rodo-vassoura-e-escovao",
+          "imagem": "imagens/produtos/rodo-vassoura-e-escovao/rodo-40cm.jpg",
+          "unidade": "DUZIA"
+        }
+      ]
+    },
+    {
+      "slug": "redinhas",
+      "nome": "Redinhas",
+      "produtos": [
+        {
+          "codigo": "153",
+          "nome": "REDINHA  1KG",
+          "slug_categoria": "redinhas",
+          "imagem": "imagens/produtos/redinhas/redinha-1kg.jpg",
+          "unidade": "MILHEIRO"
+        },
+        {
+          "codigo": "154",
+          "nome": "REDINHA  2KG",
+          "slug_categoria": "redinhas",
+          "imagem": "imagens/produtos/redinhas/redinha-2kg.jpg",
+          "unidade": "MILHEIRO"
+        },
+        {
+          "codigo": "155",
+          "nome": "REDINHA 3KG",
+          "slug_categoria": "redinhas",
+          "imagem": "imagens/produtos/redinhas/redinha-3kg.jpg",
+          "unidade": "MILHEIRO"
+        },
+        {
+          "codigo": "151",
+          "nome": "REDINHA 1KG  PARA CORTE",
+          "slug_categoria": "redinhas",
+          "imagem": "imagens/produtos/redinhas/redinha-1kg-para-corte.jpg",
+          "unidade": "ROLO"
+        },
+        {
+          "codigo": "152",
+          "nome": "REDINHA 2KG  PARA CORTE",
+          "slug_categoria": "redinhas",
+          "imagem": "imagens/produtos/redinhas/redinha-2kg-para-corte.jpg",
+          "unidade": "ROLO"
+        }
+      ]
+    },
+    {
+      "slug": "toalha-de-papel-inter-folhada-e-guardanapos",
+      "nome": "Toalha De Papel Inter Folhada E Guardanapos",
+      "produtos": [
+        {
+          "codigo": "499",
+          "nome": "TAMANHO 19CM X 20CM COM 1000 FOLHAS",
+          "slug_categoria": "toalha-de-papel-inter-folhada-e-guardanapos",
+          "imagem": "imagens/produtos/toalha-de-papel-inter-folhada-e-guardanapos/tamanho-19cm-x-20cm-com-1000-folhas.jpg",
+          "unidade": "PCTE"
+        },
+        {
+          "codigo": "538",
+          "nome": "TAMANHO 19CM X 20CM COM 1250 FOLHAS",
+          "slug_categoria": "toalha-de-papel-inter-folhada-e-guardanapos",
+          "imagem": "imagens/produtos/toalha-de-papel-inter-folhada-e-guardanapos/tamanho-19cm-x-20cm-com-1250-folhas.jpg",
+          "unidade": "FARDO"
+        },
+        {
+          "codigo": "115",
+          "nome": "GUARDANAPO PAPEL 22 X 21CM 48X100",
+          "slug_categoria": "toalha-de-papel-inter-folhada-e-guardanapos",
+          "imagem": "imagens/produtos/toalha-de-papel-inter-folhada-e-guardanapos/guardanapo-papel-22-x-21cm-48x100.jpg",
+          "unidade": "FARDO"
+        },
+        {
+          "codigo": "150",
+          "nome": "GUARDANAPO PAPEL 20 X23CM  48X100",
+          "slug_categoria": "toalha-de-papel-inter-folhada-e-guardanapos",
+          "imagem": "imagens/produtos/toalha-de-papel-inter-folhada-e-guardanapos/guardanapo-papel-20-x23cm-48x100.jpg",
+          "unidade": "FARDO"
+        },
+        {
+          "codigo": "499",
+          "nome": "GUARDANAPO PAPEL 22 X 23CM 64X50",
+          "slug_categoria": "toalha-de-papel-inter-folhada-e-guardanapos",
+          "imagem": "imagens/produtos/toalha-de-papel-inter-folhada-e-guardanapos/guardanapo-papel-22-x-23cm-64x50.jpg",
+          "unidade": "FARDO"
+        },
+        {
+          "codigo": "116",
+          "nome": "GUARDANAPO PAPEL 14 X 14CM COM 500",
+          "slug_categoria": "toalha-de-papel-inter-folhada-e-guardanapos",
+          "imagem": "imagens/produtos/toalha-de-papel-inter-folhada-e-guardanapos/guardanapo-papel-14-x-14cm-com-500.jpg",
+          "unidade": "FARDO"
+        }
+      ]
+    },
+    {
+      "slug": "filme-stretch",
+      "nome": "Filme Stretch",
+      "produtos": [
+        {
+          "codigo": "519",
+          "nome": "BOBINA COM 4KG",
+          "slug_categoria": "filme-stretch",
+          "imagem": "imagens/produtos/filme-stretch/bobina-com-4kg.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "bobinas-picotadas",
+      "nome": "Bobinas Picotadas",
+      "produtos": [
+        {
+          "codigo": "501",
+          "nome": "BOBINA PICOTADA TAMANHO GG",
+          "slug_categoria": "bobinas-picotadas",
+          "imagem": "imagens/produtos/bobinas-picotadas/bobina-picotada-tamanho-gg.jpg",
+          "unidade": "CX 6 BOB"
+        },
+        {
+          "codigo": "500",
+          "nome": "BOBINA PICOTADA TAMANHO G",
+          "slug_categoria": "bobinas-picotadas",
+          "imagem": "imagens/produtos/bobinas-picotadas/bobina-picotada-tamanho-g.jpg",
+          "unidade": "CX 6 BOB"
+        },
+        {
+          "codigo": "502",
+          "nome": "BOBINA PICOTADA TAMANHO M",
+          "slug_categoria": "bobinas-picotadas",
+          "imagem": "imagens/produtos/bobinas-picotadas/bobina-picotada-tamanho-m.jpg",
+          "unidade": "CX 6 BOB"
+        },
+        {
+          "codigo": "506",
+          "nome": "BOBINA PICOTADA TAMANHO P",
+          "slug_categoria": "bobinas-picotadas",
+          "imagem": "imagens/produtos/bobinas-picotadas/bobina-picotada-tamanho-p.jpg",
+          "unidade": "CX 6 BOB"
+        },
+        {
+          "codigo": "554",
+          "nome": "SUPORTE M",
+          "slug_categoria": "bobinas-picotadas",
+          "imagem": "imagens/produtos/bobinas-picotadas/suporte-m.jpg"
+        },
+        {
+          "codigo": "555",
+          "nome": "SUPORTE G",
+          "slug_categoria": "bobinas-picotadas",
+          "imagem": "imagens/produtos/bobinas-picotadas/suporte-g.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "pilhas",
+      "nome": "Pilhas",
+      "produtos": [
+        {
+          "codigo": "313",
+          "nome": "PILHA PANASSONIC ALCALINA AA  2 PILHAS",
+          "slug_categoria": "pilhas",
+          "imagem": "imagens/produtos/pilhas/pilha-panassonic-alcalina-aa-2-pilhas.jpg",
+          "unidade": "CX 10 PCTE"
+        },
+        {
+          "codigo": "421",
+          "nome": "PILHA PANASSONIC ALCALINA AAA  2 PILHAS",
+          "slug_categoria": "pilhas",
+          "imagem": "imagens/produtos/pilhas/pilha-panassonic-alcalina-aaa-2-pilhas.jpg",
+          "unidade": "CX 10 PCTE"
+        },
+        {
+          "codigo": "511",
+          "nome": "PILHA PANASSONIC COMUM AA  4PILHA",
+          "slug_categoria": "pilhas",
+          "imagem": "imagens/produtos/pilhas/pilha-panassonic-comum-aa-4pilha.jpg",
+          "unidade": "CX   C/12PCTE"
+        },
+        {
+          "codigo": "512",
+          "nome": "PILHA PANASSONIC COMUM AAA 4PILHA",
+          "slug_categoria": "pilhas",
+          "imagem": "imagens/produtos/pilhas/pilha-panassonic-comum-aaa-4pilha.jpg",
+          "unidade": "CX  C/10PCTE"
+        },
+        {
+          "codigo": "510",
+          "nome": "PILHA PHILIPS AA COMUM",
+          "slug_categoria": "pilhas",
+          "imagem": "imagens/produtos/pilhas/pilha-philips-aa-comum.jpg",
+          "unidade": "CX 40UNID"
+        },
+        {
+          "codigo": "261",
+          "nome": "PILHA PHILIPS AAA  COMUM",
+          "slug_categoria": "pilhas",
+          "imagem": "imagens/produtos/pilhas/pilha-philips-aaa-comum.jpg",
+          "unidade": "CX 40UNID"
+        }
+      ]
+    },
+    {
+      "slug": "eletrica",
+      "nome": "Elétrica",
+      "produtos": [
+        {
+          "codigo": "529",
+          "nome": "EXTENSÃO (RABICHO)   3 METROS  CX C/20 UNID",
+          "slug_categoria": "eletrica",
+          "imagem": "imagens/produtos/eletrica/extensao-rabicho-3-metros-cx-c-20-unid.jpg"
+        },
+        {
+          "codigo": "530",
+          "nome": "EXTENSÃO (RABICHO)   5 METROS  CX C/20 UNID",
+          "slug_categoria": "eletrica",
+          "imagem": "imagens/produtos/eletrica/extensao-rabicho-5-metros-cx-c-20-unid.jpg"
+        },
+        {
+          "codigo": "531",
+          "nome": "EXTENSÃO (RABICHO) 10 METROS  CX C/20 UNID",
+          "slug_categoria": "eletrica",
+          "imagem": "imagens/produtos/eletrica/extensao-rabicho-10-metros-cx-c-20-unid.jpg"
+        },
+        {
+          "codigo": "532",
+          "nome": "PLAFON BRANCO/PRETOCX COM 100 UNID",
+          "slug_categoria": "eletrica",
+          "imagem": "imagens/produtos/eletrica/plafon-branco-pretocx-com-100-unid.jpg"
+        },
+        {
+          "codigo": "533",
+          "nome": "PINO MACHO  10 A BRANCO/PRETO",
+          "slug_categoria": "eletrica",
+          "imagem": "imagens/produtos/eletrica/pino-macho-10-a-branco-preto.jpg",
+          "unidade": "PT/10UNID"
+        },
+        {
+          "codigo": "534",
+          "nome": "PINO MACHO  20 A BRANCO/PRETO",
+          "slug_categoria": "eletrica",
+          "imagem": "imagens/produtos/eletrica/pino-macho-20-a-branco-preto.jpg",
+          "unidade": "PT/10UNID"
+        },
+        {
+          "codigo": "535",
+          "nome": "PINO FEMEA  10 A BRANCO/PRETO",
+          "slug_categoria": "eletrica",
+          "imagem": "imagens/produtos/eletrica/pino-femea-10-a-branco-preto.jpg",
+          "unidade": "PT/10UNID"
+        },
+        {
+          "codigo": "536",
+          "nome": "PINO FEMEA  20 A BRANCO/PRETO",
+          "slug_categoria": "eletrica",
+          "imagem": "imagens/produtos/eletrica/pino-femea-20-a-branco-preto.jpg",
+          "unidade": "PT/10UNID"
+        }
+      ]
+    },
+    {
+      "slug": "fitilho",
+      "nome": "Fitilho",
+      "produtos": [
+        {
+          "codigo": "167",
+          "nome": "FITILHO 500G",
+          "slug_categoria": "fitilho",
+          "imagem": "imagens/produtos/fitilho/fitilho-500g.jpg",
+          "unidade": "FARDO COM 24 UNID"
+        },
+        {
+          "codigo": "549",
+          "nome": "BARALHO PIF PAF",
+          "slug_categoria": "fitilho",
+          "imagem": "imagens/produtos/fitilho/baralho-pif-paf.jpg",
+          "unidade": "CAIXA COM 6 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "incenso-repelente",
+      "nome": "Incenso Repelente",
+      "produtos": [
+        {
+          "codigo": "549",
+          "nome": "INCENSO REPELENTE",
+          "slug_categoria": "incenso-repelente",
+          "imagem": "imagens/produtos/incenso-repelente/incenso-repelente.jpg",
+          "unidade": "CAIXA COM 400 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "prato-papelao-natural",
+      "nome": "Prato Papelão Natural",
+      "produtos": [
+        {
+          "nome": "PRATO PAPELÃO NATURAL          N° 2",
+          "slug_categoria": "prato-papelao-natural",
+          "imagem": "imagens/produtos/prato-papelao-natural/prato-papelao-natural-n-2.jpg",
+          "unidade": "PCTE C/ 100 UNID"
+        },
+        {
+          "nome": "PRATO PAPELÃO NATURAL          N° 3",
+          "slug_categoria": "prato-papelao-natural",
+          "imagem": "imagens/produtos/prato-papelao-natural/prato-papelao-natural-n-3.jpg",
+          "unidade": "PCTE C/ 100 UNID"
+        },
+        {
+          "nome": "PRATO PAPELÃO NATURAL          N° 4",
+          "slug_categoria": "prato-papelao-natural",
+          "imagem": "imagens/produtos/prato-papelao-natural/prato-papelao-natural-n-4.jpg",
+          "unidade": "PCTE C/ 100 UNID"
+        },
+        {
+          "nome": "PRATO PAPELÃO NATURAL          N° 5",
+          "slug_categoria": "prato-papelao-natural",
+          "imagem": "imagens/produtos/prato-papelao-natural/prato-papelao-natural-n-5.jpg",
+          "unidade": "PCTE C/ 100 UNID"
+        },
+        {
+          "nome": "PRATO PAPELÃO NATURAL          N° 6",
+          "slug_categoria": "prato-papelao-natural",
+          "imagem": "imagens/produtos/prato-papelao-natural/prato-papelao-natural-n-6.jpg",
+          "unidade": "PCTE C/ 100 UNID"
+        },
+        {
+          "nome": "PRATO PAPELÃO NATURAL          N° 7",
+          "slug_categoria": "prato-papelao-natural",
+          "imagem": "imagens/produtos/prato-papelao-natural/prato-papelao-natural-n-7.jpg",
+          "unidade": "PCTE C/ 100 UNID"
+        },
+        {
+          "nome": "PRATO PAPELÃO NATURAL          N° 8",
+          "slug_categoria": "prato-papelao-natural",
+          "imagem": "imagens/produtos/prato-papelao-natural/prato-papelao-natural-n-8.jpg",
+          "unidade": "PCTE C/ 100 UNID"
+        },
+        {
+          "nome": "PRATO PAPELÃO NATURAL          N° 9",
+          "slug_categoria": "prato-papelao-natural",
+          "imagem": "imagens/produtos/prato-papelao-natural/prato-papelao-natural-n-9.jpg",
+          "unidade": "PCTE C/ 100 UNID"
+        },
+        {
+          "nome": "PRATO PAPELÃO NATURAL          N° 10",
+          "slug_categoria": "prato-papelao-natural",
+          "imagem": "imagens/produtos/prato-papelao-natural/prato-papelao-natural-n-10.jpg",
+          "unidade": "PCTE C/ 100 UNID"
+        },
+        {
+          "nome": "PRATO PAPELÃO NATURAL          N° 12",
+          "slug_categoria": "prato-papelao-natural",
+          "imagem": "imagens/produtos/prato-papelao-natural/prato-papelao-natural-n-12.jpg",
+          "unidade": "PCTE C/ 100 UNID"
+        }
+      ]
+    },
+    {
+      "slug": "registro-de-fogao",
+      "nome": "Registro De Fogão",
+      "produtos": [
+        {
+          "codigo": "546",
+          "nome": "REGISTRO COM MANGUEIRA",
+          "slug_categoria": "registro-de-fogao",
+          "imagem": "imagens/produtos/registro-de-fogao/registro-com-mangueira.jpg"
+        },
+        {
+          "codigo": "547",
+          "nome": "REGISTRO SEM MANGUEIRA",
+          "slug_categoria": "registro-de-fogao",
+          "imagem": "imagens/produtos/registro-de-fogao/registro-sem-mangueira.jpg"
+        }
+      ]
+    }
+  ]
+}
