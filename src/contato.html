@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contato e Orçamento — DL Descartáveis Manaus</title>
+  <meta name="description" content="Solicite orçamento de embalagens descartáveis para o seu negócio. DL Descartáveis atende Manaus e interior do AM. WhatsApp (92) 98816-6201.">
+  <link rel="canonical" href="https://dldescartaveis.com.br/contato.html">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="container">
+      <a href="index.html" class="logo">
+        <span class="logo-badge">DL</span>
+        <span class="logo-name">Descartáveis<span>Distribuidor Atacadista</span></span>
+      </a>
+      <button class="menu-toggle" aria-label="Abrir menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="nav" aria-label="Menu principal">
+        <a href="index.html">Início</a>
+        <a href="catalogo.html">Catálogo</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="contato.html">Contato</a>
+        <a href="contato.html" class="btn-wa-header">Pedir orçamento</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="breadcrumb">
+    <div class="container">
+      <a href="index.html">Início</a>
+      <span>/</span>
+      Contato e Orçamento
+    </div>
+  </div>
+
+  <div class="page-hero">
+    <div class="container">
+      <h1>Solicitar Orçamento</h1>
+      <p>Monte a lista de produtos e envie direto pelo WhatsApp. Respondemos em até 1 hora no horário comercial.</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <div class="orcamento-wrap">
+
+        <!-- Formulário -->
+        <div class="form-card">
+          <h2 class="form-title">Monte seu pedido</h2>
+
+          <div class="pedido-minimo-note">
+            ⚠️ <strong>Pedido mínimo: R$ 300,00.</strong> Pedidos abaixo desse valor não podem ser processados.
+          </div>
+
+          <div class="form-group">
+            <label for="nome">Seu nome *</label>
+            <input type="text" id="nome" name="nome" placeholder="Ex: João Silva" required autocomplete="name">
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="empresa">Empresa / Estabelecimento *</label>
+              <input type="text" id="empresa" name="empresa" placeholder="Nome do seu negócio" required>
+            </div>
+            <div class="form-group">
+              <label for="telefone">WhatsApp *</label>
+              <input type="tel" id="telefone" name="telefone" placeholder="(92) 9 0000-0000" required autocomplete="tel">
+            </div>
+          </div>
+
+          <!-- Lista de produtos -->
+          <div class="produtos-lista">
+            <div class="produtos-lista-header">
+              <span>Produtos solicitados</span>
+              <span id="lista-count" style="color:var(--cinza-md);font-weight:400">0 item(s)</span>
+            </div>
+            <div id="lista-itens"></div>
+
+            <!-- Adicionar produto -->
+            <div class="add-produto-wrap">
+              <div class="autocomplete-wrap">
+                <input type="text" id="input-produto" placeholder="Digite o nome ou código do produto…" autocomplete="off" aria-label="Buscar produto">
+                <ul class="autocomplete-list" id="autocomplete-list" role="listbox" hidden></ul>
+              </div>
+              <input type="number" class="input-qty" id="input-qty" placeholder="Qtd" min="1" value="1" aria-label="Quantidade">
+              <button type="button" class="btn-add-produto" id="btn-add">+ Adicionar</button>
+            </div>
+          </div>
+
+          <div class="form-group" style="margin-top:20px;">
+            <label for="obs">Observações (opcional)</label>
+            <textarea id="obs" name="obs" rows="3" placeholder="Alguma observação sobre entrega, urgência ou produto específico?"></textarea>
+          </div>
+
+          <button type="button" class="btn btn-wa form-submit-btn" id="btn-enviar" disabled>
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347zM12 0C5.373 0 0 5.373 0 12c0 2.117.553 4.103 1.518 5.834L.057 23.5l5.826-1.527A11.945 11.945 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.818 9.818 0 01-5.007-1.37l-.36-.213-3.716.975.99-3.618-.234-.37A9.818 9.818 0 1112 21.818z"/>
+            </svg>
+            Enviar orçamento pelo WhatsApp
+          </button>
+          <p id="btn-hint" style="font-size:.78rem;color:var(--cinza-md);text-align:center;margin-top:8px;">
+            Preencha nome, empresa, telefone e adicione pelo menos 1 produto.
+          </p>
+        </div>
+
+        <!-- Card de contato -->
+        <aside class="contato-card">
+          <h3>Fale diretamente conosco</h3>
+
+          <div class="contato-item">
+            <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347zM12 0C5.373 0 0 5.373 0 12c0 2.117.553 4.103 1.518 5.834L.057 23.5l5.826-1.527A11.945 11.945 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.818 9.818 0 01-5.007-1.37l-.36-.213-3.716.975.99-3.618-.234-.37A9.818 9.818 0 1112 21.818z"/></svg>
+            <div class="contato-item-body">
+              <strong>WhatsApp</strong>
+              <a href="https://wa.me/559288166201" target="_blank" rel="noopener" style="color:#fff;font-size:1rem;font-weight:700">(92) 98816-6201</a>
+            </div>
+          </div>
+
+          <div class="contato-item">
+            <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+            <div class="contato-item-body">
+              <strong>Endereço</strong>
+              Rua José do Belmonte<br>
+              Manaus/AM — CEP 69044-630
+            </div>
+          </div>
+
+          <div class="contato-item">
+            <svg viewBox="0 0 24 24"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67V7z"/></svg>
+            <div class="contato-item-body">
+              <strong>Horário de atendimento</strong>
+              Segunda a sábado<br>
+              8h às 19h
+            </div>
+          </div>
+
+          <div class="contato-item">
+            <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+            <div class="contato-item-body">
+              <strong>E-mail</strong>
+              dldescartaveiscentro<br>@gmail.com
+            </div>
+          </div>
+
+          <a href="https://wa.me/559288166201" target="_blank" rel="noopener" class="btn-wa-contato">
+            <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347zM12 0C5.373 0 0 5.373 0 12c0 2.117.553 4.103 1.518 5.834L.057 23.5l5.826-1.527A11.945 11.945 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.818 9.818 0 01-5.007-1.37l-.36-.213-3.716.975.99-3.618-.234-.37A9.818 9.818 0 1112 21.818z"/></svg>
+            Falar pelo WhatsApp agora
+          </a>
+
+          <p style="text-align:center;margin-top:16px;font-size:.78rem;color:rgba(255,255,255,.35)">
+            Pedido mínimo R$ 300,00
+          </p>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="index.html" class="logo">
+            <span class="logo-badge">DL</span>
+            <span class="logo-name" style="color:#fff;">Descartáveis<span>Distribuidor Atacadista</span></span>
+          </a>
+          <p style="margin-top:16px;">Embalagens descartáveis com preço de fábrica em Manaus há 20 anos.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Navegação</h4>
+          <a href="index.html">Início</a>
+          <a href="catalogo.html">Catálogo</a>
+          <a href="sobre.html">Sobre</a>
+          <a href="contato.html">Contato</a>
+        </div>
+        <div class="footer-col">
+          <h4>Contato</h4>
+          <address>
+            <a href="https://wa.me/559288166201" target="_blank" rel="noopener" style="color:rgba(255,255,255,.5)">(92) 98816-6201</a><br>
+            Manaus/AM — CEP 69044-630<br>
+            Seg–Sáb, 8h às 19h
+          </address>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2024 DL Descartáveis — H.B. Moreira Ltda</span>
+        <span class="footer-cnpj">CNPJ: 55.047.003/0001-72</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script src="js/orcamento.js"></script>
+</body>
+</html>

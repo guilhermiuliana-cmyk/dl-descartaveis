@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de Produtos — DL Descartáveis Manaus</title>
+  <meta name="description" content="Catálogo completo de embalagens descartáveis da DL Descartáveis em Manaus: sacolas, sacos de lixo, filme PVC, marmitas, copos, talheres e muito mais. Peça orçamento pelo WhatsApp.">
+  <link rel="canonical" href="https://dldescartaveis.com.br/catalogo.html">
+  <meta property="og:title" content="Catálogo de Produtos — DL Descartáveis">
+  <meta property="og:description" content="Mais de 270 produtos em 44 categorias. Sacolas, sacos, filmes, marmitas, copos e mais.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="container">
+      <a href="index.html" class="logo">
+        <span class="logo-badge">DL</span>
+        <span class="logo-name">Descartáveis<span>Distribuidor Atacadista</span></span>
+      </a>
+      <button class="menu-toggle" aria-label="Abrir menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="nav" aria-label="Menu principal">
+        <a href="index.html">Início</a>
+        <a href="catalogo.html">Catálogo</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="contato.html">Contato</a>
+        <a href="contato.html" class="btn-wa-header">Pedir orçamento</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="breadcrumb">
+    <div class="container">
+      <a href="index.html">Início</a>
+      <span>/</span>
+      Catálogo de Produtos
+    </div>
+  </div>
+
+  <div class="page-hero">
+    <div class="container">
+      <h1>Catálogo de Produtos</h1>
+      <p>Mais de 270 produtos em 44 categorias — sem preços públicos. Peça orçamento pelo WhatsApp.</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <!-- Topbar: busca + filtro mobile -->
+      <div class="catalogo-topbar">
+        <div class="search-wrap">
+          <input type="search" id="busca" placeholder="Buscar por nome ou código…" autocomplete="off">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+          </svg>
+        </div>
+        <select class="cat-select" id="cat-select" aria-label="Filtrar por categoria">
+          <option value="">Todas as categorias</option>
+        </select>
+      </div>
+
+      <div class="catalogo-layout">
+        <!-- Sidebar desktop -->
+        <aside class="catalogo-sidebar" aria-label="Categorias">
+          <div class="sidebar-title">Categorias</div>
+          <ul class="sidebar-list" id="sidebar-list">
+            <li><a href="#" data-cat="" class="active">Todos os produtos</a></li>
+          </ul>
+        </aside>
+
+        <!-- Área de produtos -->
+        <div>
+          <p class="catalogo-count" id="catalogo-count"></p>
+          <div id="catalogo-content">
+            <div style="text-align:center;padding:60px 0;color:var(--cinza-md)">Carregando…</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-band">
+    <div class="container">
+      <h2>Encontrou o que precisa?</h2>
+      <p>Peça seu orçamento agora. Pedido mínimo R$ 300 — entrega em até 1 semana.</p>
+      <a href="contato.html" class="btn btn-dark">Fazer orçamento pelo WhatsApp</a>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="index.html" class="logo">
+            <span class="logo-badge">DL</span>
+            <span class="logo-name" style="color:#fff;">Descartáveis<span>Distribuidor Atacadista</span></span>
+          </a>
+          <p style="margin-top:16px;">Embalagens descartáveis com preço de fábrica em Manaus há 20 anos.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Navegação</h4>
+          <a href="index.html">Início</a>
+          <a href="catalogo.html">Catálogo</a>
+          <a href="sobre.html">Sobre</a>
+          <a href="contato.html">Contato</a>
+        </div>
+        <div class="footer-col">
+          <h4>Contato</h4>
+          <address>
+            <a href="https://wa.me/559288166201" target="_blank" rel="noopener" style="color:rgba(255,255,255,.5)">(92) 98816-6201</a><br>
+            Manaus/AM — CEP 69044-630<br>
+            Seg–Sáb, 8h às 19h
+          </address>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2024 DL Descartáveis — H.B. Moreira Ltda</span>
+        <span class="footer-cnpj">CNPJ: 55.047.003/0001-72</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script src="js/catalogo.js"></script>
+</body>
+</html>
