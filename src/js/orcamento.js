@@ -1,6 +1,5 @@
 /* orcamento.js — formulário inteligente de orçamento */
-
-const WA_NUMBER = '559288166201';
+/* WA_NUMBER é declarado globalmente em main.js (carregado antes deste arquivo) */
 
 let todosProdutos = [];
 let listaOrcamento = [];  // [{ nome, codigo, categoria, qty }]

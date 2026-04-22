@@ -1,6 +1,5 @@
 /* catalogo.js — carrega produtos.json, filtra e renderiza o catálogo */
-
-const WA_NUMBER = '559288166201';
+/* WA_NUMBER é declarado globalmente em main.js (carregado antes deste arquivo) */
 
 let todosOsProdutos = [];  // { ...produto, categoria }
 let todasCategorias = [];
